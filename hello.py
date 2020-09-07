@@ -7,5 +7,6 @@ def main():
     print("Main function called")
     print(double_it(25))
     outside_functions.outside1()
+    outside_functions.outside2()
 
 main()
