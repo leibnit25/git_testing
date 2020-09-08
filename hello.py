@@ -8,5 +8,6 @@ def main():
     print(double_it(25))
     outside_functions.outside1()
     outside_functions.outside2()
+    print("testing push to github")
 
 main()
